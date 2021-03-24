@@ -71,9 +71,9 @@ Scripts Python de la résolution des **puzzles moyens** de https://codingame.com
 
 30/	La Bataille : https://youtu.be/pMdLfElRqH8
 
-31/	Des nains sur des épaules de géants
+31/	Des nains sur des épaules de géants : https://youtu.be/GVY-ygUmwU8
 
-32/	Sudoku solver
+32/	Sudoku solver : https://youtu.be/IHk0B4zHHMQ
 
 33/	Maximum sub_sequence
 
