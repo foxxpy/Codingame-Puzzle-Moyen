@@ -11,9 +11,6 @@ Scripts Python de la résolution des **puzzles moyens** de https://codingame.com
 
 **----- Episodes -----**
 
-<<<<<<< HEAD
-1/ Bender - Episode 2 : https://youtu.be/kCUSMR9CxTc
-=======
 1/ Shadows of the Knight – Episode 1 : https://youtu.be/uHhJExSU7uE
 
 2/ The Urinal Problem : https://youtu.be/0GsjQ_uCUTw
@@ -74,9 +71,9 @@ Scripts Python de la résolution des **puzzles moyens** de https://codingame.com
 
 30/	La Bataille : https://youtu.be/pMdLfElRqH8
 
-31/	Des nains sur des épaules de géants
+31/	Des nains sur des épaules de géants : https://youtu.be/GVY-ygUmwU8
 
-32/	Sudoku solver
+32/	Sudoku solver : https://youtu.be/IHk0B4zHHMQ
 
 33/	Maximum sub_sequence
 
@@ -101,4 +98,3 @@ Scripts Python de la résolution des **puzzles moyens** de https://codingame.com
 43/	Langton’s ant
 
 44/	Labyrinthe
->>>>>>> parent of 112acb5... Ajout des épisodes 31 et 32
