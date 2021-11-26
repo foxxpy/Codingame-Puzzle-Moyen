@@ -1,0 +1,42 @@
+import sys
+import math
+
+def cambrioleur(maisons, index):
+    """
+    Calcule la valeur maximale que peut dérober un cambrioleur depuis une liste de valeurs représentant
+    les valeurs de chaque maison. Le cambrioleur ne peut cambrioler des maisons voisines.
+    :type maisons: list[int]
+    :type index: int
+    :rtype: int
+    """
+
+    global values
+
+    if index >= len(maisons):
+        return 0
+
+    elif index in values:
+        return values[index]
+
+    else:
+        premiere_maison = maisons[index] + cambrioleur(maisons, index+2)
+        passe_premiere_maison = cambrioleur(maisons, index+1)
+
+        if not index in values:
+            values[index] = max(premiere_maison, passe_premiere_maison)
+
+        return max(premiere_maison, passe_premiere_maison)
+
+values = {}
+
+#Instanciation des variables
+n = int(input())
+maisons = list()
+
+for i in range(n):
+    housevalue = int(input())
+    maisons.append(housevalue)
+
+result = cambrioleur(maisons, 0)
+
+print(result)

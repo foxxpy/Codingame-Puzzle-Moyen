@@ -75,26 +75,28 @@ Scripts Python de la résolution des **puzzles moyens** de https://codingame.com
 
 32/	Sudoku solver : https://youtu.be/IHk0B4zHHMQ
 
-33/	Maximum sub_sequence
+33/	Maximum sub_sequence :
 
-34/	Cards castle
+34/	Cards castle :
 
-35/	Number of paths between 2 points
+35/	Number of paths between 2 points :
 
-36/	Sum of divisors
+36/	Sum of divisors :
 
-37/	Le jeu de la vie
+37/	Le jeu de la vie :
 
-38/	Pris en excès de vitesse
+38/	Pris en excès de vitesse :
 
-39/	The Ultimate Test
+39/	The Ultimate Test :
 
-40/	Bulgarian solitaire
+40/	Bulgarian solitaire :
 
-41/	Carmichael numbers
+41/	Carmichael numbers :
 
-42/	Elementary Cellular Automaton
+42/	Elementary Cellular Automaton :
 
-43/	Langton’s ant
+43/	Langton’s ant :
 
-44/	Labyrinthe
+44/	Labyrinthe :
+
+45/ Robbery Optimisation : 
